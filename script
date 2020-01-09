@@ -34,6 +34,6 @@ print(sampleVariable)
 
 sudo apt -y install wget
 
-wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1578-amd64.deb
+wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.5033-amd64.deb
 
-sudo dpkg -i rstudio-1.2.1578-amd64.deb
+sudo dpkg -i rstudio-1.2.5033-amd64.deb
